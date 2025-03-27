@@ -16,7 +16,7 @@ Library: SheetJS (for Excel processing)
 1️⃣ Upload Excel files (up to 5).
 2️⃣ Enter the maximum duration in the format:
 
-X Hours: Y Minutes: Z Seconds
+X HOURS : Y MINUTES: Z SECONDS
 3️⃣ Click Process Files to filter records.
 4️⃣ Download the filtered Excel file.
 
